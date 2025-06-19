@@ -5,8 +5,8 @@ import modelo.Persona;
 public class TestPersona {
 
     public static void main(String[] args) {
-        Persona p1 = new Persona("Ana", 30);
-        Persona p2 = new Persona("Ana", 30);
+        Persona p1 = new Persona("Carlos", 30);
+        Persona p2 = new Persona("Pedro", 30);
         Persona p3 = new Persona("Luis", 25);
 
         System.out.println("p1: " + p1);
